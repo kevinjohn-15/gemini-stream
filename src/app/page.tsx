@@ -124,7 +124,7 @@ export default function Home() {
       >
         <h1 className="text-4xl font-serif font-bold text-gray-100 mb-6 text-center flex items-center justify-center gap-2">
           <Skull className="h-8 w-8 text-red-600" />
-          Dark Conjurer
+          Shadowbinder
         </h1>
 
         <form onSubmit={handleSubmit} className="space-y-6" aria-labelledby="form-title">
